@@ -6,7 +6,11 @@ Version 1.0.0 of R was released to the world on February 29, 2000, and had alrea
 
 Presented at [SatRDays DC](http://dc2020.netlify.com/), March 2020: [PDF Slides](https://github.com/revodavid/20-years-of-R/raw/master/Twenty%20Years%20of%20R%20-%20SatRDays%20DC%20Mar%202020.pdf), [video recording](https://youtu.be/iq_biXEIx-U) 
 
+Presented at [confeRence 2020](https://www.r-conference2020.com/) (Malaysia R User Conference), November 2020 as "R at (almost) 21": [PDF Slides](R%20at%20(almost)%2021%20-%20Malaysia%20R%20Conf.pdf)
+
 ## Links
+
+[The History of R (Updated for 2020)](https://blog.revolutionanalytics.com/2020/07/the-history-of-r-updated-for-2020.html) (Revolutions Blog, 2020)
 
 [R, Other Languages and Object-Oriented Programming](http://statweb.stanford.edu/~jmc4/talks/Stanford2010_slides.pdf) (J. M. Chambers, 2010)
 
@@ -20,11 +24,11 @@ Presented at [SatRDays DC](http://dc2020.netlify.com/), March 2020: [PDF Slides]
 
 [First public availability of RStudio](https://blog.rstudio.com/2011/02/28/rstudio-new-open-source-ide-for-r/)
 
-[Microsoft acquires Revolution Analytics](https://blogs.microsoft.com/blog/2015/01/23/microsoft-acquire-revolution-analytics-help-customers-find-big-data-value-advanced-statistical-analysis/)
+[Microsoft acquires Revolution Analytics](https://blogs.microsoft.com/blog/2015/01/23/microsoft-acquire-revolution-analytics-help-customers-find-big-data-value-advanced-statistical-analysis/?WT.mc_id=opensource-0000-davidsmi)
 
 [R Consortium founded](https://www.r-consortium.org/announcement/2015/06/30/linux-foundation-announces-r-consortium-to-support-millions-of-users-around-the-world)
 
-Microsoft support of R: [MRAN](https://mran.microsoft.com/?WT.mc_id=satrdaysdc-talk-davidsmi), [Microsoft ML Server](https://docs.microsoft.com/en-us/machine-learning-server/what-is-machine-learning-server?WT.mc_id=satrdaysdc-talk-davidsmi), [SQL Server](https://docs.microsoft.com/en-us/sql/advanced-analytics/what-is-sql-server-machine-learning?view=sql-server-ver15&WT.mc_id=satrdaysdc-talk-davidsmi), [Power BI](https://docs.microsoft.com/power-bi/desktop-r-visuals?WT.mc_id=satrdaysdc-talk-davidsmi), [Azure Databricks](https://docs.microsoft.com/en-us/azure/databricks/spark/latest/sparkr/?WT.mc_id=satrdaysdc-talk-davidsmi), [Azure HDinsight](https://docs.microsoft.com/azure/hdinsight/r-server/r-server-overview?WT.mc_id=satrdaysdc-talk-davidsmi), [Azure Data Science VM](https://docs.microsoft.com/azure/machine-learning/data-science-virtual-machine/tools-included?WT.mc_id=satrdaysdc-talk-davidsmi#program-in-python-r-julia-and-nodejs), [Azure ML](https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-1st-r-experiment?WT.mc_id=satrdaysdc-talk-davidsmi), [AzureR](https://github.com/Azure/AzureR), [R Community](https://www.r-consortium.org/members)
+Microsoft support of R: [MRAN](https://mran.microsoft.com/?WT.mc_id=opensource-0000-davidsmi), [Microsoft ML Server](https://docs.microsoft.com/machine-learning-server/what-is-machine-learning-server?WT.mc_id=opensource-0000-davidsmi), [SQL Server](https://docs.microsoft.com/sql/advanced-analytics/what-is-sql-server-machine-learning?view=sql-server-ver15&WT.mc_id=opensource-0000-davidsmi), [Power BI](https://docs.microsoft.com/power-bi/desktop-r-visuals?WT.mc_id=opensource-0000-davidsmi), [Azure Databricks](https://docs.microsoft.com/azure/databricks/spark/latest/sparkr/?WT.mc_id=opensource-0000-davidsmi), [Azure HDinsight](https://docs.microsoft.com/azure/hdinsight/r-server/r-server-overview?WT.mc_id=opensource-0000-davidsmi), [Azure Data Science VM](https://docs.microsoft.com/azure/machine-learning/data-science-virtual-machine/tools-included?WT.mc_id=opensource-0000-davidsmi#program-in-python-r-julia-and-nodejs), [Azure ML](https://docs.microsoft.com/azure/machine-learning/tutorial-1st-r-experiment?WT.mc_id=opensource-0000-davidsmi), [AzureR](https://github.com/Azure/AzureR), [R Community](https://www.r-consortium.org/members)
 
 [A brief History of R and some Thoughts about Its Future](https://youtu.be/Uey45MSg8Y4) (P. Dalgaard, presentation for [Celebration 2020](https://biostatistics.dk/celebration2020/index.html))
 
